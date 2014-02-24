@@ -3,11 +3,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-p {
-  margin:0;
-  padding:0;
-}
-
 a:hover,a:active,a:focus  {
   outline: 0;
 }
@@ -34,7 +29,7 @@ img.avatar  {
 }
 
 .top {
-  background:#555 url('../img/backgrounds/schull.boat.jpg') repeat center top;
+  background:#555 url('../img/backgrounds/schull-boat.jpg') repeat center top;
   border-bottom:1px solid #000;
 }
 
@@ -204,12 +199,12 @@ header .navigation a:hover {
   padding:20px;
 }
 
-.about {
+.post {
   padding-top:30px;
   padding-bottom:30px;
 }
 
-.about p.aboutpara {
+.post p.aboutpara {
   font-family: 'Droid Serif', serif;
   font-size:16px;
   font-style:italic;
@@ -219,44 +214,55 @@ header .navigation a:hover {
   padding:15px;
 }
 
-.about p span {
+.post p span {
   font-size:25px;
 }
 
-.about img.avatar  {
+.post .content img {
+  float: right;
+  margin: 0px 10px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+}
+
+.post .meta {
+  padding-top: 10px;
+}
+
+.post img.avatar  {
   width: 120px;
 }
 
-.about .query h3 {
+.post .query h3 {
   color:#777;
 }
 
-.about .query p {
+.post .query p {
   font-size:15px;
   line-height:25px;
 }
 
-.about .query hr {
+.post .query hr {
   margin-top:5px;
   margin-bottom:5px;
 }
 
-.about .well {
+.post .well {
   margin-top:20px;
   padding:5px;
 }
 
-.about .well h5 {
+.post .well h5 {
   font-size:20px;
   padding-left:15px;
 }
 
-.about .well hr {
+.post .well hr {
   margin-top:15px;
   margin-bottom:15px;
 }
 
-.about .well ul li {
+.post .well ul li {
   padding-top:5px;
   padding-bottom:5px;
 }
