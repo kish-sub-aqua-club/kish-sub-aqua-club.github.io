@@ -2,4 +2,6 @@ name: Kish Sub Aqua Club
 markdown: redcarpet
 pygments: true
 permalink: none
+exclude:
+  - vendor
 
