@@ -1,0 +1,15 @@
+.DS_Store
+.session
+.env
+.project
+
+*.dump
+
+spec/cassettes
+coverage/
+tmp/
+log/
+
+_site/
+video/
+
