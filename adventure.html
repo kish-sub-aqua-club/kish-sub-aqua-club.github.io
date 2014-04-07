@@ -1,0 +1,16 @@
+---
+layout: default
+title: Diving Adventures
+---
+
+<p class="intro">
+  Over it's long and growing history, Kish Sub Aqua Club has visited hundreds if not thousands of different dive sites around Ireland and beyond in the World. There's always a few good stories that stand out, the remarkable tales that only seem to get better with each passing year (and pint ;-). Here's just a small selection of some of the adventures our members have taken the time to document.
+</p>
+
+{% for post in site.posts %}
+<hr>
+<div class="excerpt">
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+</div>
+{% endfor %}

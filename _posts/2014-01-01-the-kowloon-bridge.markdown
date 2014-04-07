@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "The Kowloon Bridge"
+title: "The Wreck of the Kowloon Bridge"
 author: Peter Brady
 avatar: peter.brady
 categories: adventures
 ---
-
-### The Wreck of the Kowloon Bridge
 
 The end of 1986 saw Ireland experiencing one of its worst oil pollution disasters when the super tanker Kowloon Bridge ended its transatlantic journey on The Stags, off Toe Head, West Cork. The journey started at Quebec, Canada for the River Clyde, Scotland in November 1986 with almost 2,000 tonnes of fuel oil and a dry cargo of 160,000 tonnes of British Steel owned marble sized iron ore pellets.
 
