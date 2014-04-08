@@ -24,6 +24,11 @@ img.avatar  {
   width:900px;
 }
 
+.container .video {
+  display: block;
+  margin: 10px auto;
+}
+
 .tblue {
   color:#69b8e5;
 }
