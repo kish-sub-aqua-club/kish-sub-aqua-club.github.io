@@ -105,6 +105,11 @@ header .navigation a:hover {
   text-align: center;
 }
 
+.videos {
+  text-align: center;
+  margin: 20px 0px 10px 0px;
+}
+
 .hero .intro h2 {
   color:#fff;
   font-family: 'Open Sans', sans-serif;
