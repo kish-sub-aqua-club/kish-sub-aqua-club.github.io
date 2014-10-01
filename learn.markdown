@@ -3,6 +3,14 @@ layout: default
 title: Learn to Dive
 ---
 
+### Try a Dive
+
+Throughout this month of October we will be doing "Try a Dive" nights on Wednesdays at 8.00pm in the Guinness Bi-Centennial Pool in Watling Street, Dublin 8.
+
+These are free of charge sessions where people can try the gear, ask any questions they may have, and hopefully consider taking diving up as a hobby.
+
+We hope to see you there&hellip;
+
 ### Weekly training
 
 We go swimming in the Guinness Pool on Watling Street on Wednesday nights, between 8 and 9 p.m. We've been known to play underwater rugby occasionally, and the steam room and sauna up the top of the pool help us to wind down afterwards... We have run try a dive nights on Wednesdays during the year - between 8-9pm in the Guinness Pool, address above. For details you can contact our training officer kishtrainingofficer@gmail.com. There is no charge or commitment required for this, it is simply a give it a go and see if you like it then you could look at the possibility of taking this interest further.
