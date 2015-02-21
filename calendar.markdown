@@ -3,32 +3,99 @@ layout: default
 title: Current Season Calendar
 ---
 
-### New Year's Day Swim
-Peter Brady and six hardy souls went dipping in Sandycove on New Year's Day, and, organised as ever, he even brought along a shore marshal - well done Patricia Dunne! Snorkels have begun again, generally 10.00.a.m. at Sandycove on Sunday (what else would you be at anyway?), but there will be text confirmations.
+<div class="row event">
+  <div class="col-md-3">
+    <h3>Christmas Party</h3>
+    Sat 21st February
+  </div>
+  <div class="col-md-9">
+    <p>
+      Our usual Christmas Party will be going ahead on Saturday 21st of February 2015, at Foley's Bar, Merrion Row, Dublin 2. We hope to get good support for this and will be running a raffle, with cash prizes, plenty of spot prizes and a bit of craic to lift the winter gloom. Please put the date in your diary and come along!
+    </p>
+  </div>
+</div>
 
-### Away Trips - The Other Important Bit!
-We need to start firming up these dates, so we need some feedback from you all to know where you want to go, or if you have some magic spot you would like us to go to!
+<div class="row event">
+  <div class="col-md-3">
+    <h3>April Weekend</h3>
+    Fri 3rd to Mon 6th April
+  </div>
+  <div class="col-md-9">
+    <p>
+      Considering club trip to Hook Head
+    </p>
+  </div>
+</div>
 
-### St Patrick's Day
-This year it falls on a Monday, i.e., long weekend. Weather permitting, we are open to suggestions, possibly Hook Head or some easily accessible place for the first outing f the season
+<div class="row event">
+  <div class="col-md-3">
+    <h3>May Weekend</h3>
+    Fri 1st to Mon 4th May
+  </div>
+  <div class="col-md-9">
+    <p>
+      Considering club trip to Derryinver (Galway)
+    </p>
+  </div>
+</div>
 
-### May Bank Holiday
-The weekend 3/4/5th May 2014 - Suggestion is to hire workboat run by Shane Biscoff out of Derryinver in Connemara for the weekend, staying at the Maol Reidh hotel in Tullycross.  Diving would be in the Inishbofin/Inishturk/Clare Island/High Island areas - superb diving and good craic. Cost to be determined, in the region of &euro;200 per person diving.  Need to have a few dives done as this is offshore hard boat diving.
+<div class="row event">
+  <div class="col-md-3">
+    <h3>May Dive Rally</h3>
+    Fri 15th to Sun 17th May
+  </div>
+  <div class="col-md-9">
+    <p>
+      South West Region Dive Rally
+    </p>
+  </div>
+</div>
 
-### June Bank Holiday
-The weekend  31st May, 1/2 June 2014 - suggestion is Arranmore in Co. Donegal, details of accommodation and cost to be checked out, but around &euro;100 per person wouldn't be too far off in self catering accommodation. Boat diving suited to all grades.
+<div class="row event">
+  <div class="col-md-3">
+    <h3>June Weekend</h3>
+    Fri 29th May to Mon 1st June
+  </div>
+  <div class="col-md-9">
+    <p>
+      Considering club trip to Kinsale
+    </p>
+  </div>
+</div>
 
-### August 2014
-Here's where the real issue lies - do we consider a trip to Gozo (in Mediterranean near Malta) for a week? Aiming for second week in August.  Working on cheapest possible flights etc, may be in region of &euro;450 - &euro;500 per person, but will have to suss this out more fully. Diving to suit all grades, family friendly, good reports from previous trips.  If the interest is there, we can begin to plan seriously and budget for this trip.  Would need 8 - 10 divers to make it a bit of fun, plus significant other persons! August is high season - we need numbers back fast if this is to run - don't sit on it too much!
+<div class="row event">
+  <div class="col-md-3">
+    <h3>July Week Holiday</h3>
+    Sat 4th to Sat 11th July
+  </div>
+  <div class="col-md-9">
+    <p>
+      Club will be organising a week-long holiday for members and families
+    </p>
+  </div>
+</div>
 
-Also, will need to run a weekend away for local club members in August, probably in SW. Indeed, if Gozo isn't a runner, we need to consider a local summer week away either July or August.
+<div class="row event">
+  <div class="col-md-3">
+    <h3>August Weekend</h3>
+    Fri 31st July to Mon 3rd Aug
+  </div>
+  <div class="col-md-9">
+    <p>
+      Considering club trip to Rathlin
+    </p>
+  </div>
+</div>
 
-### September/October
-Considering trip to U260 off Baltimore, using Aquaventures, weekend would be predicated by the tides (need neaps), or alternatively we can check out a liveaboard operating out of Kinsale which has been getting good reviews.  We do intend to run a full schedule of diving in Dublin and hope to get people up to speed so that we can vary the dive sites a bit more this coming year.
-
-I know you can't get away on all these trips - very few of us will get them all - but do come back with some feedback to allow us to start to organise your trips so that we can go where we really want to! If you have somewhere that you would like to go to, let us know and we'll try to get there!
-
-Yours in diving,
-
-**Pat Normile, Diving Officer, KSAC.**
+<div class="row event">
+  <div class="col-md-3">
+    <h3>October Weekend</h3>
+    Fri 23rd to Mon 26th Oct
+  </div>
+  <div class="col-md-9">
+    <p>
+      Details to follow
+    </p>
+  </div>
+</div>
 
