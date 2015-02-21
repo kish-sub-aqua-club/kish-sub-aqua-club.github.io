@@ -6,7 +6,7 @@ title: Current Season Calendar
 <div class="row event">
   <div class="col-md-3">
     <h3>Christmas Party</h3>
-    Sat 21st February
+    Sat 21st Feb
   </div>
   <div class="col-md-9">
     <p>
@@ -17,8 +17,20 @@ title: Current Season Calendar
 
 <div class="row event">
   <div class="col-md-3">
+    <h3>Every Weekend</h3>
+    Starting around mid March
+  </div>
+  <div class="col-md-9">
+    <p>
+      We intend to run Sunday dives out of Dun Laoghaire every weekend. Details to follow of scheduled targeted monthly dives to wrecks sites, etc
+    </p>
+  </div>
+</div>
+
+<div class="row event">
+  <div class="col-md-3">
     <h3>April Weekend</h3>
-    Fri 3rd to Mon 6th April
+    Fri 3rd to Mon 6th Apr
   </div>
   <div class="col-md-9">
     <p>
@@ -54,7 +66,7 @@ title: Current Season Calendar
 <div class="row event">
   <div class="col-md-3">
     <h3>June Weekend</h3>
-    Fri 29th May to Mon 1st June
+    Fri 29th May to Mon 1st Jun
   </div>
   <div class="col-md-9">
     <p>
@@ -66,7 +78,7 @@ title: Current Season Calendar
 <div class="row event">
   <div class="col-md-3">
     <h3>July Week Holiday</h3>
-    Sat 4th to Sat 11th July
+    Sat 4th to Sat 11th Jul
   </div>
   <div class="col-md-9">
     <p>
@@ -78,7 +90,7 @@ title: Current Season Calendar
 <div class="row event">
   <div class="col-md-3">
     <h3>August Weekend</h3>
-    Fri 31st July to Mon 3rd Aug
+    Fri 31st Jul to Mon 3rd Aug
   </div>
   <div class="col-md-9">
     <p>
