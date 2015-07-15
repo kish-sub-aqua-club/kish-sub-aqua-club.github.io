@@ -4,15 +4,38 @@ title: Diving Adventures
 ---
 
 <p class="intro">
-  Over it's history, Kish Sub Aqua Club has visited hundreds if not thousands of different dive sites around Ireland and beyond. There's always a few good stories that stand out, the remarkable tales that only seem to get better with each passing year (and pint ;-). Here's just a small selection of some of the adventures our members have taken.
+  Over it's history, Kish Sub Aqua Club has visited hundreds if not thousands of different dive sites around Ireland and beyond. There's always a few good stories that stand out, the remarkable tales that only seem to get better with each passing year (and pint ;-). Here's just a small selection of some of our more recent trips.
 </p>
 
-<div class="videos">
-  <iframe width="280" height="210" src="//www.youtube.com/embed/fSNvaoVLW7o?rel=0" frameborder="0" allowfullscreen></iframe>
-  <iframe width="280" height="210" src="//www.youtube.com/embed/VGcxEqWekPY?rel=0" frameborder="0" allowfullscreen></iframe>
-  <br />
-  <iframe width="280" height="210" src="//www.youtube.com/embed/y3zAQ4HYgrU?rel=0" frameborder="0" allowfullscreen></iframe>
-  <iframe width="280" height="210" src="//www.youtube.com/embed/GJWFquaxGk8?rel=0" frameborder="0" allowfullscreen></iframe>
+<div id="videos" class="row">
+  <div class="col-md-3">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="active">
+        <a href="#wreck" data-toggle="pill">Diving in Ireland</a>
+      </li>
+      <li><a href="#connemara" data-toggle="pill">Connemara, Galway</a></li>
+      <li><a href="#donegal" data-toggle="pill">Dunfanaghy, Donegal</a></li>
+      <li><a href="#sandycove" data-toggle="pill">Sandycove, Dublin</a></li>
+      <li><a href="#schull" data-toggle="pill">Schull, Cork</a></li>
+    </ul>
+  </div>
+  <div class="col-md-9 tab-content">
+    <div id="wreck" class="tab-pane fade in active">
+      <iframe width="600" height="338" src="//www.youtube.com/embed/fSNvaoVLW7o?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div id="donegal" class="tab-pane fade">
+      <iframe width="600" height="338" src="//www.youtube.com/embed/WVKXAUprbUs?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div id="connemara" class="tab-pane fade">
+      <iframe width="600" height="338" src="//www.youtube.com/embed/VGcxEqWekPY?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div id="schull" class="tab-pane fade">
+      <iframe width="600" height="338" src="//www.youtube.com/embed/y3zAQ4HYgrU?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div id="sandycove" class="tab-pane fade">
+      <iframe width="600" height="338" src="//www.youtube.com/embed/GJWFquaxGk8?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
 </div>
 
 {% for post in site.categories.adventures %}

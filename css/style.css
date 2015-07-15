@@ -100,14 +100,17 @@ header .navigation a:hover {
   margin:0px auto;
 }
 
-#video {
-  margin-top: 20px;
-  text-align: center;
+#videos {
+  margin: 20px 0px;
 }
 
-.videos {
+#videos .nav-pills {
+  text-align: right;
+}
+
+#videos .tab-pane {
   text-align: center;
-  margin: 20px 0px 10px 0px;
+  margin: 0px;
 }
 
 .hero .intro h2 {
