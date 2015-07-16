@@ -113,9 +113,8 @@ header .navigation a:hover {
   text-align: right;
 }
 
-#gallery .tab-pane {
-  text-align: center;
-  margin: 0px;
+#gallery .tab-pane iframe {
+  margin: 0px auto;
 }
 
 .hero .intro h2 {
@@ -792,6 +791,11 @@ footer .copy {
 
   .hero .applinks  {
     margin-bottom:25px;
+  }
+
+  #gallery .nav-pills {
+    text-align: center;
+    margin-bottom: 20px;
   }
 
   .features .feat {

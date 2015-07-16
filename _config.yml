@@ -1,7 +1,16 @@
 name: Kish Sub Aqua Club
 markdown: redcarpet
-pygments: true
-permalink: none
+highlighter: true
 exclude:
   - vendor
 
+gallery:
+  videos:
+    - name: Connemara, Galway
+      embed: VGcxEqWekPY
+    - name: Dunfanaghy, Donegal
+      embed: WVKXAUprbUs
+    - name: Sandycove, Dublin
+      embed: GJWFquaxGk8
+    - name: Schull, Cork
+      embed: y3zAQ4HYgrU
