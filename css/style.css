@@ -105,15 +105,15 @@ header .navigation a:hover {
   text-align: center;
 }
 
-#videos {
+#gallery {
   margin: 20px 0px;
 }
 
-#videos .nav-pills {
+#gallery .nav-pills {
   text-align: right;
 }
 
-#videos .tab-pane {
+#gallery .tab-pane {
   text-align: center;
   margin: 0px;
 }
@@ -779,10 +779,15 @@ footer .copy {
     text-align:center;
   }
 
+  .hero h2 {
+    margin-top: 0px;
+  }
+
   .hero .intro {
     text-align:center;
     max-width:500px;
     margin:0px auto;
+    margin-bottom: 30px;
   }
 
   .hero .applinks  {
