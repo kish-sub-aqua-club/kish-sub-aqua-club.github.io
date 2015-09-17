@@ -11,7 +11,7 @@ title: Diving Adventures
   <div class="col-md-3">
     <ul class="nav nav-pills nav-stacked">
       {% for video in site.gallery.videos %}
-      <li {% if 2 == forloop.index %}class="active"{% endif %}>
+      <li {% if 1 == forloop.index %}class="active"{% endif %}>
         <a href="#{{video.embed}}" data-toggle="pill">{{ video.name }}</a>
       </li>
       {% endfor %}
@@ -19,7 +19,7 @@ title: Diving Adventures
   </div>
   <div class="col-md-9 tab-content">
     {% for video in site.gallery.videos %}
-      {% if 2 == forloop.index %}
+      {% if 1 == forloop.index %}
         <div id="{{video.embed}}" class="tab-pane active in fade">
       {% else %}
         <div id="{{video.embed}}" class="tab-pane fade">
