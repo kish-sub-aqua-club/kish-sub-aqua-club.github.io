@@ -1,5 +1,5 @@
 name: Kish Sub Aqua Club
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 exclude:
   - vendor
